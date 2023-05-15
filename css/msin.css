@@ -1,0 +1,26 @@
+p {
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 22px;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: cadetblue;
+}
+p.num {
+    margin-bottom: 5px;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+table {
+    border: 3px solid cadetblue;
+    width: 650px;
+    margin: 0 auto;
+}
+
+td {
+    border: 3px solid cadetblue;
+    padding: 10px;
+}
